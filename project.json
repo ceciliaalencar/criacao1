@@ -1,0 +1,173 @@
+{
+  "blocks": [
+    {
+      "id": "N-uDLLLZJCWdy9N_eiLoy",
+      "type": "Header",
+      "props": {
+        "titulo": "Criação 1",
+        "corDeFundo": "#1f2937",
+        "tituloStyle": {
+          "color": "#ffffff",
+          "fontSize": 3,
+          "fontFamily": "Default",
+          "bold": true,
+          "italic": false
+        },
+        "geometry": {
+          "width": 8,
+          "depth": 2,
+          "height": "plate"
+        }
+      }
+    },
+    {
+      "id": "ItHs4XThJYszjb4dvSChI",
+      "type": "ImageBlock",
+      "props": {
+        "imageUrl": "https://placehold.co/800x450/cccccc/444444?text=Imagem",
+        "legenda": "A",
+        "legendaStyle": {
+          "color": "#6b7280",
+          "fontSize": 1,
+          "fontFamily": "Default",
+          "bold": false,
+          "italic": true
+        },
+        "geometry": {
+          "width": 8,
+          "depth": 4,
+          "height": "plate"
+        }
+      }
+    },
+    {
+      "id": "KPqoqEog_wrqD3iveuCTT",
+      "type": "ImageBlock",
+      "props": {
+        "imageUrl": "https://placehold.co/800x450/cccccc/444444?text=Imagem",
+        "legenda": "b.",
+        "legendaStyle": {
+          "color": "#6b7280",
+          "fontSize": 1,
+          "fontFamily": "Default",
+          "bold": false,
+          "italic": true
+        },
+        "geometry": {
+          "width": 8,
+          "depth": 4,
+          "height": "plate"
+        }
+      }
+    },
+    {
+      "id": "exuboevYhF5ZvgmMjYVNU",
+      "type": "ImageBlock",
+      "props": {
+        "imageUrl": "https://placehold.co/800x450/cccccc/444444?text=Imagem",
+        "legenda": "C",
+        "legendaStyle": {
+          "color": "#6b7280",
+          "fontSize": 1,
+          "fontFamily": "Default",
+          "bold": false,
+          "italic": true
+        },
+        "geometry": {
+          "width": 8,
+          "depth": 4,
+          "height": "plate"
+        }
+      }
+    },
+    {
+      "id": "O0M8B-k_QB2VWHHrDpudI",
+      "type": "LinkList",
+      "props": {
+        "links": [
+          {
+            "text": "Link Principal",
+            "url": "#"
+          }
+        ],
+        "geometry": {
+          "width": 6,
+          "depth": 2,
+          "height": "brick"
+        }
+      }
+    },
+    {
+      "id": "45gPreC0wo7ssZdEDa7VT",
+      "type": "LinkList",
+      "props": {
+        "links": [
+          {
+            "text": "Link Principal",
+            "url": "#"
+          }
+        ],
+        "geometry": {
+          "width": 6,
+          "depth": 2,
+          "height": "brick"
+        }
+      }
+    },
+    {
+      "id": "C3waOmZmnxa0LJb85Q9ma",
+      "type": "LinkList",
+      "props": {
+        "links": [
+          {
+            "text": "Link Principal",
+            "url": "#"
+          }
+        ],
+        "geometry": {
+          "width": 6,
+          "depth": 2,
+          "height": "brick"
+        }
+      }
+    },
+    {
+      "id": "BbfItXkuz-69MRg5BgaFG",
+      "type": "LinkList",
+      "props": {
+        "links": [
+          {
+            "text": "Link Principal",
+            "url": "#"
+          }
+        ],
+        "geometry": {
+          "width": 6,
+          "depth": 2,
+          "height": "brick"
+        }
+      }
+    },
+    {
+      "id": "fHjsFjtX857aD-6LUqVPM",
+      "type": "ImageBlock",
+      "props": {
+        "imageUrl": "https://placehold.co/800x450/cccccc/444444?text=Imagem",
+        "legenda": "Uma legenda descritiva para a imagem.",
+        "legendaStyle": {
+          "color": "#6b7280",
+          "fontSize": 1,
+          "fontFamily": "Default",
+          "bold": false,
+          "italic": true
+        },
+        "geometry": {
+          "width": 8,
+          "depth": 4,
+          "height": "plate"
+        }
+      }
+    }
+  ],
+  "template": "landing"
+}
